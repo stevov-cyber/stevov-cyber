@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, меня зовут Владимир! 👋
 
-<!--
-**stevov-cyber/stevov-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Header
 
-Here are some ideas to get you started:
+## 👨‍💻 Обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- связаться со мной: 
+
+## 🤝 Социальные сети:
+
+## 🛠 Тестирование веб-приложений:
+devtools  postman  soapui 
+
+## 📱 Тестирование мобильных приложений:
+
+## 💾 Работа с данными:
+
+## ✏️ Работа с кодом:
