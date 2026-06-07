@@ -19,9 +19,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=stevov-cyber.stevov-cyber&" height="25"/>
 </div>
 
-## 👨‍💻 Обо мне:
-
-- связаться со мной:
+<h2 align="left">👨‍💻 Обо мне:</h2>
 
 <h2 align="left">🧪 QA Engineering</h2>
 <h3 align="left">Тестирование:</h3>
@@ -99,7 +97,9 @@
   <a>
     <img src="https://img.shields.io/badge/Android_Studio-20232A?style=flot&logo=androidstudio" title="Android Studio" height="25" alt="androidstudio logo"/>
   </a>
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <a>
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" height="25" alt="androidstudio logo"/>
+  </a>
 </div>
 
 <h3 align="left">💾 Работа с данными:</h3>
