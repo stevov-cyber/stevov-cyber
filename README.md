@@ -1,47 +1,148 @@
-# Привет, меня зовут Владимир! 👋
+![Header](https://github.com/stevov-cyber/stevov-cyber/blob/main/assets/header.png)
 
-[![Header](https://github.com/stevov-cyber/stevov-cyber/blob/main/assets/header.png)](https://t.me/m1xmass)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=buda&weight=900&size=42&pause=200&color=oklab&center=true&vCenter=true&width=435&lines=+Hi%2C+I+am+Vladimir%2C+;QA+Engineer)](https://git.io/typing-svg)
+
+<div align="center">
+  <a href="https://t.me/m1xmass" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@m1xmass&logo=telegram&label=&color=090909&logoColor=27A0D9&labelColor=&style=flat" title="Telegram" height="25" alt="telegram logo"/>
+  </a>
+  <a href="mailto:stevovpol@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-090909?style=flat&logo=Gmail&logoColor=red" title="Gmail" height="25" alt="gmail logo"/>
+  </a>
+  <a href="https://discord.gg/nT7rfNJ2VT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" title="Discord" height="25" alt="discord logo"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=stevov-cyber.stevov-cyber&" height="25"/>
+</div>
 
 ## 👨‍💻 Обо мне:
 
-- связаться со мной: 
+- связаться со мной:
 
-## 📁 Тестовая документация:
+<h2 align="left">🧪 QA Engineering</h2>
+<h3 align="left">Тестирование:</h3>
+
+`Manual Testing`
+`Black-Box Testing`
+`Functional Testing`
+`Regression Testing`
+`Exploratory Testing`
+`Smoke Testing`
+`Integration Testing`
+`API Testing`
+`REST API Testing`
+`Web Testing`
+`Mobile Testing (Android)`
+`Cross-Platform Testing`
+`Requirement Analysis`
+`Test Design`
+`Test Cases`
+`Test Scenarios`
+`Test Execution`
+`Bug Reporting`
+`Bug Verification`
+`Defect Lifecycle Management`
+`API Validation`
+`UI Testing`
+`Acceptance Testing`
+
+<h3 align="left">Методологии:</h3>
+
+`Agile`
+`Scrum`
+`Kanban`
+`SDLC`
+`STLC`
+`Boundary Value Analysis`
+`Equivalence Partitioning`
+`Error Guessing`
+`Risk-Based Testing`
+
+<h2 align="left">Инструменты и технологии</h2>
+
+<h3 align="left">📁 Тестовая документация:</h3>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  <a>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style-flat&logo=jira&logoColor=fff" title="Jira" height="25" alt="jira logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style-flat&logo=trello&logoColor=fff" title="Trello" height="25" alt="trello logo"/>
+  </a>
+  <a><img src="https://img.shields.io/badge/Confluence-172B4D?style-flat&logo=confluence&logoColor=white" title="Confluence" height="25" alt="confluence logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flot&logo=figma&logoColor=white" title="Figma" height="25" alt="figma logo"/>
+  </a>
 </div>
 
-
-## 🛠 Тестирование веб-приложений:
-
+<h3 align="left">🛠 Тестирование веб-приложений:</h3>
 <div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <a>
+    <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white" title="DevTools" height="25" alt="devtools logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Postman-20232A?style=flat&logo=postman&logoColor=FF6C37&title=Postman" title="Postman" height="25" alt="postman logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/HTML5-20232A?style=flot&logo=html5&logoColor=E34F26" title="HTML5" height="25" alt="html5 logo"/>
+  </a>
+  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flot&logo=css3&logoColor=white" title="CSS3" height="25" alt="html5 logo"/>
+  </a>
 </div>
 
-## 📱 Тестирование мобильных приложений:
-
+<h3 align="left">📱 Тестирование мобильных приложений:</h3>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <a>
+    <img src="https://img.shields.io/badge/Android_Studio-20232A?style=flot&logo=androidstudio" title="Android Studio" height="25" alt="androidstudio logo"/>
+  </a>
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
 
-## 💾 Работа с данными:
-
+<h3 align="left">💾 Работа с данными:</h3>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <a>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flot&logo=postgresql&logoColor=white" title="PostgreSQL" height="25" alt="postgresql logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flot&logo=mysql&logoColor=fff" title="MySQL" height="25" alt="mysql logo"/>
+  </a>
 </div>
 
-## ✏️ Работа с кодом:
-
+<h3 align="left">✏️ Работа с кодом:</h3>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <a>
+    <img src="https://img.shields.io/badge/Git-20232A?style=flot&logo=git&" title="Git" height="25" alt="git logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flot&logo=github&logoColor=white" title="GitHub" height="25" alt="github logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flot&logo=visualstudiocode&logoColor=white" title="VS Code" height="25" alt="vscode logo"/>
+  </a>
 </div>
 
-## 🤝 Связаться со мной:
-[![Telegram](https://img.shields.io/badge/-@m1xmass-blue?style=flat&logo=LinkedIn&logoColor=white)](https://t.me/m1xmass) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stevovpol@gmail.com)
+<h3 align="left">✏️ Языки программирования:</h3>
+<div>
+  <a>
+    <img src="https://img.shields.io/badge/SQL-336791?style=flot&logo=postgresql&logoColor=white" title="SQL" height="25" alt="sql logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flot&logo=javascript&logoColor=black" title="JavaScript" height="25" alt="javascript logo"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flot&logo=typescript&logoColor=white" title="TypeScript" height="25" alt="typescript logo"/>
+  </a>
+</div>
+
+<h2 align="left">📕 Мои статьи</h2>
+<h2 align="left">🌟 Статистика GitHub:</h2>
+
+<div>
+  <a>
+    <img src="https://img.shields.io/github/forks/peopl3s/club-house-api?style-social" title="Forcs" height="25" alt="forcs logo"/>
+  </a>
+</div>
